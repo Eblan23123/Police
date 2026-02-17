@@ -1,0 +1,2 @@
+Копируете мой длл скрипт с папки "МОД" заходите ищите свою стим свои игры или проще открываете стим открываете гта 5 дальше шестеренка - управление - посмотреть локальные файлы дальше закидываете этот длл в папку скриптс если ее нету создаете и закидываете и заходите в игру. 
+Copy my DLL script from the "MOD" folder, go to it, search for your Steam games, or simply open Steam, open GTA 5, then select gear - control - view local files, then drop this DLL into the scripts folder. If it doesn't exist, create it, drop it in, and then launch the game.
